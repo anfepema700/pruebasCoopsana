@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-texto felipe->
-=======
-emanuel paso por aqui
->>>>>>> 4ef481db31ed3beed5ec915d4b2bed72590157aa
